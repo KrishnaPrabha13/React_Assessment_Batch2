@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "fname": "Nainika",
+      "lname": "V",
+      "email": "nainika@gmail.com",
+      "gender": "Female",
+      "aadhar": "1234 1234 1234",
+      "pan": "HBCDE1234F",
+      "phone": "9895989898",
+      "intext": true,
+      "id": 1
+    },
+    {
+      "fname": "Devi",
+      "lname": "V",
+      "email": "devi@gmail.com",
+      "gender": "Female",
+      "aadhar": "1234 1234 1232",
+      "pan": "HBCDE1234T",
+      "phone": "9895989888",
+      "intext": true,
+      "id": 2
+    },
+    {
+      "fname": "Anatha",
+      "lname": "A",
+      "email": "abce@gmail.com",
+      "gender": "Male",
+      "aadhar": "1234 1234 1235",
+      "pan": "HBCDE1234F",
+      "phone": "9097989898",
+      "intext": true,
+      "id": 3
+    },
+    {
+      "fname": "Prabha",
+      "lname": "A",
+      "email": "prabhakrish13@gmail.com",
+      "gender": "Female",
+      "aadhar": "1234 1234 1222",
+      "pan": "ABCDE8234F",
+      "phone": "9097989898",
+      "intext": true,
+      "id": 4
+    }
+  ]
+}
